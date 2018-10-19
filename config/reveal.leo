@@ -78,7 +78,7 @@
 <v t="leo.20181019114232.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181019114008.1" a="E"><vh>W3</vh>
+<v t="leo.20181019114008.1"><vh>W3</vh>
 <v t="leo.20181019114008.2" a="E"><vh>W3</vh>
 <v t="leo.20181019114008.3"><vh>封面投影片內容</vh></v>
 </v>
@@ -102,33 +102,33 @@
 <v t="leo.20181019114009.2" a="E"><vh>W4</vh>
 <v t="leo.20181019114009.3"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181019114009.4"><vh>導入照片1</vh>
+<v t="leo.20181019114009.4" a="E"><vh>導入照片1</vh>
 <v t="leo.20181019114009.5"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20181019114009.6"><vh>導入影片1</vh>
+<v t="leo.20181019114009.6" a="E"><vh>導入影片1</vh>
 <v t="leo.20181019114009.7"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181019114009.8"><vh>導入影片2</vh>
+<v t="leo.20181019114009.8" a="E"><vh>導入影片2</vh>
 <v t="leo.20181019114009.9"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181019114009.10"><vh>導入影片3</vh>
+<v t="leo.20181019114009.10" a="E"><vh>導入影片3</vh>
 <v t="leo.20181019114009.11"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181019114009.12"><vh>導入影片4</vh>
+<v t="leo.20181019114009.12" a="E"><vh>導入影片4</vh>
 <v t="leo.20181019114009.13"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 <v t="leo.20181019114012.1" a="E"><vh>W5</vh>
-<v t="leo.20181019114012.2" a="E"><vh>W5</vh>
+<v t="leo.20181019114012.2"><vh>W5</vh>
 <v t="leo.20181019114012.3"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181019114012.4"><vh>導入照片1</vh>
+<v t="leo.20181019114012.4" a="E"><vh>導入照片1</vh>
 <v t="leo.20181019114012.5"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20181019114012.6"><vh>導入影片1</vh>
+<v t="leo.20181019114012.6" a="E"><vh>導入影片1</vh>
 <v t="leo.20181019114012.7"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181019114012.8"><vh>導入影片2</vh>
+<v t="leo.20181019114012.8" a="E"><vh>導入影片2</vh>
 <v t="leo.20181019114012.9"><vh>iframe 導入影片</vh></v>
 </v>
 <v t="leo.20181019114012.10"><vh>導入影片3</vh>
@@ -687,11 +687,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181019114009.11">## 繪製影片03
+<t tx="leo.20181019114009.11">## 特徵零件03繪製影片
 
 
-&lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/ibrZsSTqwFQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/ibrZsSTqwFQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181019114009.12">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -701,7 +700,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181019114009.13">## 繪製影片04
+<t tx="leo.20181019114009.13">## 特徵零件04繪製影片
 
 
 &lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/DQlg_xqa7vI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
@@ -727,7 +726,8 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181019114009.5">## 課堂練習繪製下列圖形零件
+<t tx="leo.20181019114009.5">## 課堂ONSHAPE練習
+
 
 &lt;a href="https://imgur.com/2is1Acc"&gt;&lt;img src="https://i.imgur.com/2is1Acc.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
 <t tx="leo.20181019114009.6">&lt;section data-markdown&gt;
@@ -739,7 +739,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181019114009.7">## 繪製影片01
+<t tx="leo.20181019114009.7">## 特徵零件01繪製影片
 
 
 &lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/FFOiCVIMidw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
@@ -752,7 +752,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181019114009.9">## 繪製影片02
+<t tx="leo.20181019114009.9">## 特徵零件02繪製影片
 
 
 &lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/w__ZdKEQgZw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
