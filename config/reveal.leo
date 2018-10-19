@@ -21,10 +21,10 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -36,6 +36,26 @@
 </v>
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t="leo.20181019112322.1" a="E"><vh>W1</vh>
+<v t="leo.20181019112322.2" a="E"><vh>W1</vh>
+<v t="leo.20181019112322.3"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181019112958.1" a="E"><vh>導入照片1</vh>
+<v t="leo.20181019112958.2"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20181019112322.6" a="E"><vh>導入影片1</vh>
+<v t="leo.20181019112322.7"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181019113029.1" a="E"><vh>導入影片2</vh>
+<v t="leo.20181019113029.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181019113031.1" a="E"><vh>導入影片3</vh>
+<v t="leo.20181019113031.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181019113033.1" a="E"><vh>導入影片4</vh>
+<v t="leo.20181019113033.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
@@ -326,5 +346,89 @@ make.start()
 
 						
 </t>
+<t tx="leo.20181019112322.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181019112322.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181019112322.3">## WEEK-1
+### ONSHAPE繪圖練習</t>
+<t tx="leo.20181019112322.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181019112322.7">## 繪製影片01
+
+
+&lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/FFOiCVIMidw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181019112958.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181019112958.2">## 課堂練習繪製下列圖形零件
+
+&lt;a href="https://imgur.com/2is1Acc"&gt;&lt;img src="https://i.imgur.com/2is1Acc.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20181019113029.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181019113029.2">## 繪製影片02
+
+
+&lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/w__ZdKEQgZw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181019113031.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181019113031.2">## 繪製影片03
+
+
+&lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/ibrZsSTqwFQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181019113033.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181019113033.2">## 繪製影片04
+
+
+&lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/DQlg_xqa7vI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
