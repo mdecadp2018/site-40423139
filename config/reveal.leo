@@ -58,23 +58,23 @@
 <v t="leo.20181019113033.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181019114007.1" a="E"><vh>W2</vh>
-<v t="leo.20181019114007.2" a="E"><vh>W2</vh>
+<v t="leo.20181019114007.1"><vh>W2</vh>
+<v t="leo.20181019114007.2"><vh>W2</vh>
 <v t="leo.20181019114007.3"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181019114007.6" a="E"><vh>導入影片1</vh>
+<v t="leo.20181019114007.6"><vh>導入影片1</vh>
 <v t="leo.20181019114007.7"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181019114007.8" a="E"><vh>導入影片2</vh>
+<v t="leo.20181019114007.8"><vh>導入影片2</vh>
 <v t="leo.20181019114007.9"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181019114007.10" a="E"><vh>導入影片3</vh>
+<v t="leo.20181019114007.10"><vh>導入影片3</vh>
 <v t="leo.20181019114007.11"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181019114007.12" a="E"><vh>導入影片4</vh>
+<v t="leo.20181019114007.12"><vh>導入影片4</vh>
 <v t="leo.20181019114007.13"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181019114232.1" a="E"><vh>導入影片5</vh>
+<v t="leo.20181019114232.1"><vh>導入影片5</vh>
 <v t="leo.20181019114232.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -82,20 +82,20 @@
 <v t="leo.20181019114008.2" a="E"><vh>W3</vh>
 <v t="leo.20181019114008.3"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181019114008.4"><vh>導入照片1</vh>
-<v t="leo.20181019114008.5"><vh>iframe 導入照片</vh></v>
-</v>
-<v t="leo.20181019114008.6"><vh>導入影片1</vh>
+<v t="leo.20181019114008.6" a="E"><vh>導入影片1</vh>
 <v t="leo.20181019114008.7"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181019114008.8"><vh>導入影片2</vh>
+<v t="leo.20181019114008.8" a="E"><vh>導入影片2</vh>
 <v t="leo.20181019114008.9"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181019114008.10"><vh>導入影片3</vh>
+<v t="leo.20181019114008.10" a="E"><vh>導入影片3</vh>
 <v t="leo.20181019114008.11"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181019114008.12"><vh>導入影片4</vh>
+<v t="leo.20181019114008.12" a="E"><vh>導入影片4</vh>
 <v t="leo.20181019114008.13"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181019115059.1" a="E"><vh>導入影片5</vh>
+<v t="leo.20181019115059.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 <v t="leo.20181019114009.1" a="E"><vh>W4</vh>
@@ -138,8 +138,8 @@
 <v t="leo.20181019114012.13"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181019114015.1" a="E"><vh>W6</vh>
-<v t="leo.20181019114015.2" a="E"><vh>W6</vh>
+<v t="leo.20181019114015.1"><vh>W6</vh>
+<v t="leo.20181019114015.2"><vh>W6</vh>
 <v t="leo.20181019114015.3"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181019114015.4"><vh>導入照片1</vh>
@@ -616,11 +616,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181019114008.11">## 繪製影片03
+<t tx="leo.20181019114008.11">## HW03_圖形03繪製影片
 
 
-&lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/ibrZsSTqwFQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/x4eIM1mspy0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181019114008.12">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -630,10 +629,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181019114008.13">## 繪製影片04
+<t tx="leo.20181019114008.13">## HW03_圖形04繪製影片
 
 
-&lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/DQlg_xqa7vI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/ovcGj5POGmI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181019114008.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -647,18 +646,6 @@ make.start()
 </t>
 <t tx="leo.20181019114008.3">## WEEK-3
 ### ONSHAPE繪圖練習</t>
-<t tx="leo.20181019114008.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181019114008.5">## 課堂練習繪製下列圖形零件
-
-&lt;a href="https://imgur.com/2is1Acc"&gt;&lt;img src="https://i.imgur.com/2is1Acc.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
 <t tx="leo.20181019114008.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -668,10 +655,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181019114008.7">## 繪製影片01
+<t tx="leo.20181019114008.7">## HW03_圖形01繪製影片
 
 
-&lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/FFOiCVIMidw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/bZ0mMKmIFCw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20181019114008.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -681,11 +669,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181019114008.9">## 繪製影片02
+<t tx="leo.20181019114008.9">## HW03_圖形02繪製影片
 
 
-&lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/w__ZdKEQgZw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/9ojerzCcvCw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181019114009.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -951,5 +938,18 @@ make.start()
 
 
 &lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/DRw7JooJIYg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181019115059.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181019115059.2">## HW03_圖形05繪製影片
+
+
+&lt;iframe width="1003" height="538" src="https://www.youtube.com/embed/Wmo9qjeuEbE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
