@@ -38,11 +38,11 @@
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181019112322.1"><vh>W1</vh>
+<v t="leo.20181019112322.1" a="E"><vh>W1</vh>
 <v t="leo.20181019112322.2"><vh>W1</vh>
 <v t="leo.20181019112322.3"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181019112958.1"><vh>導入照片1</vh>
+<v t="leo.20181019112958.1" a="E"><vh>導入照片1</vh>
 <v t="leo.20181019112958.2"><vh>iframe 導入照片</vh></v>
 </v>
 <v t="leo.20181019112322.6"><vh>導入影片1</vh>
@@ -193,8 +193,8 @@
 <v t="leo.20181108163923.21"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181108163926.1"><vh>W8</vh>
-<v t="leo.20181108163926.2"><vh>W8</vh>
+<v t="leo.20181108163926.1" a="E"><vh>W8</vh>
+<v t="leo.20181108163926.2" a="E"><vh>W8</vh>
 <v t="leo.20181108163926.3"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181108163926.4"><vh>導入照片1</vh>
@@ -239,7 +239,7 @@
 <v t="leo.20181108165228.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181130113138.1" a="E"><vh>W11</vh>
+<v t="leo.20181130113138.1"><vh>W11</vh>
 <v t="leo.20181130113138.2" a="E"><vh>W11</vh>
 <v t="leo.20181130113138.3"><vh>封面投影片內容</vh></v>
 </v>
@@ -268,9 +268,23 @@
 <v t="leo.20181130113138.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181130113144.1" a="E"><vh>W12</vh>
+<v t="leo.20181130113144.1"><vh>W12</vh>
 <v t="leo.20181130113144.2" a="E"><vh>W12</vh>
 <v t="leo.20181130113144.3"><vh>封面投影片內容</vh></v>
+</v>
+</v>
+<v t="leo.20181207112725.1" a="E"><vh>W13</vh>
+<v t="leo.20181207112725.2" a="E"><vh>W13</vh>
+<v t="leo.20181207112725.3"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181207112725.4" a="E"><vh>導入照片1</vh>
+<v t="leo.20181207112725.5"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20181207112725.6" a="E"><vh>導入照片2</vh>
+<v t="leo.20181207112725.7"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20181207112725.8" a="E"><vh>導入照片3</vh>
+<v t="leo.20181207112725.9"><vh>iframe 導入照片</vh></v>
 </v>
 </v>
 </v>
@@ -1608,5 +1622,65 @@ make.start()
 
 
 </t>
+<t tx="leo.20181207112725.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181207112725.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181207112725.3">## WEEK-11
+
+行走機構初步設計
+</t>
+<t tx="leo.20181207112725.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181207112725.5">## 參考照片
+
+
+&lt;a href="https://imgur.com/EJ8mi3M"&gt;&lt;img src="https://i.imgur.com/EJ8mi3M.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
+<t tx="leo.20181207112725.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181207112725.7">## solvespace初步繪製
+
+
+&lt;a href="https://imgur.com/veFDNcL"&gt;&lt;img src="https://i.imgur.com/veFDNcL.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20181207112725.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181207112725.9">## solvespace行走軌跡
+
+
+&lt;a href="https://imgur.com/i1u2rfp"&gt;&lt;img src="https://i.imgur.com/i1u2rfp.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
 </tnodes>
 </leo_file>
