@@ -193,7 +193,7 @@
 <v t="leo.20181108163923.21"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181108163926.1" a="E"><vh>W8</vh>
+<v t="leo.20181108163926.1"><vh>W8</vh>
 <v t="leo.20181108163926.2" a="E"><vh>W8</vh>
 <v t="leo.20181108163926.3"><vh>封面投影片內容</vh></v>
 </v>
@@ -269,7 +269,7 @@
 </v>
 </v>
 <v t="leo.20181130113144.1"><vh>W12</vh>
-<v t="leo.20181130113144.2" a="E"><vh>W12</vh>
+<v t="leo.20181130113144.2"><vh>W12</vh>
 <v t="leo.20181130113144.3"><vh>封面投影片內容</vh></v>
 </v>
 </v>
@@ -285,6 +285,32 @@
 </v>
 <v t="leo.20181207112725.8" a="E"><vh>導入照片3</vh>
 <v t="leo.20181207112725.9"><vh>iframe 導入照片</vh></v>
+</v>
+</v>
+<v t="leo.20181214113700.1" a="E"><vh>W14</vh>
+<v t="leo.20181214113700.2" a="E"><vh>W14</vh>
+<v t="leo.20181214113700.3"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181214113700.4" a="E"><vh>導入照片1</vh>
+<v t="leo.20181214113700.5"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20181214113700.8" a="E"><vh>導入影片1</vh>
+<v t="leo.20181214113700.9"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181214113700.10" a="E"><vh>導入影片2</vh>
+<v t="leo.20181214113700.11"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181214113700.12" a="E"><vh>導入影片3</vh>
+<v t="leo.20181214113700.13"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181214113700.14" a="E"><vh>導入影片4</vh>
+<v t="leo.20181214113700.15"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181214113700.16" a="E"><vh>導入影片5</vh>
+<v t="leo.20181214113700.17"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181214113700.18" a="E"><vh>導入影片6</vh>
+<v t="leo.20181214113700.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
@@ -1668,7 +1694,9 @@ make.start()
 <t tx="leo.20181207112725.7">## solvespace初步繪製
 
 
-&lt;a href="https://imgur.com/veFDNcL"&gt;&lt;img src="https://i.imgur.com/veFDNcL.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/veFDNcL"&gt;&lt;img src="https://i.imgur.com/veFDNcL.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20181207112725.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1681,6 +1709,122 @@ make.start()
 <t tx="leo.20181207112725.9">## solvespace行走軌跡
 
 
-&lt;a href="https://imgur.com/i1u2rfp"&gt;&lt;img src="https://i.imgur.com/i1u2rfp.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/i1u2rfp"&gt;&lt;img src="https://i.imgur.com/i1u2rfp.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
+<t tx="leo.20181214113700.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181214113700.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181214113700.11">## 小組專題-繪製部位：K
+
+
+&lt;iframe width="1045" height="513" src="https://www.youtube.com/embed/fv9CQtWdY7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181214113700.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181214113700.13">## 小組專題-繪製部位：J
+
+
+&lt;iframe width="1045" height="513" src="https://www.youtube.com/embed/aiZSlT7Rb1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181214113700.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181214113700.15">## 小組專題-繪製部位：F
+
+
+&lt;iframe width="1045" height="513" src="https://www.youtube.com/embed/HxxqiILN180" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181214113700.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181214113700.17">## 小組專題-繪製部位：BDE
+
+
+&lt;iframe width="1045" height="513" src="https://www.youtube.com/embed/NdXBFkPBOs8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181214113700.18">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181214113700.19">## 小組專題-繪製部位：GHI
+
+&lt;iframe width="1045" height="513" src="https://www.youtube.com/embed/GrvgK9jpaSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181214113700.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181214113700.3">## WEEK-14
+### 小組專題-仿生獸零件偕同繪製
+
+</t>
+<t tx="leo.20181214113700.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181214113700.5">## 小組專題-參考照片
+
+&lt;a href="https://imgur.com/EJ8mi3M"&gt;&lt;img src="https://i.imgur.com/EJ8mi3M.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
+<t tx="leo.20181214113700.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181214113700.9">## 小組專題-繪製部位：C
+
+
+&lt;iframe width="1045" height="513" src="https://www.youtube.com/embed/JkU_SSQXW8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
