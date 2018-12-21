@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2018-12-14T09:00:00+08:00</updated><entry><title>2018 Fall 第十四週網誌</title><link href="./2018-Fall-Project-Blog-W14.html" rel="alternate"></link><published>2018-12-14T09:00:00+08:00</published><updated>2018-12-14T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2018-12-14:./2018-Fall-Project-Blog-W14.html</id><summary type="html">&lt;p&gt;十四週上課內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2018-12-21T09:00:00+08:00</updated><entry><title>2018 Fall 第十五週網誌</title><link href="./2018-Fall-Project-Blog-W15.html" rel="alternate"></link><published>2018-12-21T09:00:00+08:00</published><updated>2018-12-21T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2018-12-21:./2018-Fall-Project-Blog-W15.html</id><summary type="html">&lt;p&gt;小組專題進度&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;小組專題進度&lt;/p&gt;
+
+
+&lt;p&gt;練習使用V-REP進行零件模擬分析&lt;/p&gt;
+&lt;h2&gt;小組專題-個人進度：&lt;/h2&gt;
+&lt;p&gt;協同仿生獸本體設計繪製&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://imgur.com/xf2gfpF"&gt;&lt;img src="https://i.imgur.com/xf2gfpF.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;繪製影片：&lt;/p&gt;
+&lt;iframe width="1045" height="492" src="https://www.youtube.com/embed/H8tTzjOxyZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2018Fall-W15"></category></entry><entry><title>2018 Fall 第十四週網誌</title><link href="./2018-Fall-Project-Blog-W14.html" rel="alternate"></link><published>2018-12-14T09:00:00+08:00</published><updated>2018-12-14T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2018-12-14:./2018-Fall-Project-Blog-W14.html</id><summary type="html">&lt;p&gt;十四週上課內容&lt;/p&gt;
 &lt;p&gt;小組專題進度&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;十四週上課內容&lt;/p&gt;
 &lt;p&gt;小組專題進度&lt;/p&gt;
@@ -34,7 +43,7 @@
 &lt;p&gt;小組專題進度&lt;/p&gt;
 
 
-&lt;p&gt;課程內容：&lt;/p&gt;
+&lt;h2&gt;課程內容：&lt;/h2&gt;
 &lt;p&gt;參考行走機構-仿生獸-尺寸比例&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://imgur.com/EJ8mi3M"&gt;&lt;img src="https://i.imgur.com/EJ8mi3M.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;利用solvespace進行初步繪製&lt;/p&gt;
