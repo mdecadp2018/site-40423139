@@ -38,7 +38,7 @@
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181019112322.1" a="E"><vh>W1</vh>
+<v t="leo.20181019112322.1"><vh>W1</vh>
 <v t="leo.20181019112322.2"><vh>W1</vh>
 <v t="leo.20181019112322.3"><vh>封面投影片內容</vh></v>
 </v>
@@ -239,7 +239,7 @@
 <v t="leo.20181108165228.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181130113138.1" a="E"><vh>W11</vh>
+<v t="leo.20181130113138.1"><vh>W11</vh>
 <v t="leo.20181130113138.2"><vh>W11</vh>
 <v t="leo.20181130113138.3"><vh>封面投影片內容</vh></v>
 </v>
@@ -253,7 +253,7 @@
 <v t="leo.20181221114628.2"><vh>iframe 導入照片</vh></v>
 </v>
 </v>
-<v t="leo.20181130113144.1" a="E"><vh>W12</vh>
+<v t="leo.20181130113144.1"><vh>W12</vh>
 <v t="leo.20181130113144.2" a="E"><vh>W12</vh>
 <v t="leo.20181221120544.1"><vh>封面投影片內容</vh></v>
 </v>
@@ -288,7 +288,7 @@
 <v t="leo.20181221120823.2"><vh>iframe 導入照片</vh></v>
 </v>
 </v>
-<v t="leo.20181207112725.1" a="E"><vh>W13</vh>
+<v t="leo.20181207112725.1"><vh>W13</vh>
 <v t="leo.20181207112725.2" a="E"><vh>W13</vh>
 <v t="leo.20181207112725.3"><vh>封面投影片內容</vh></v>
 </v>
@@ -322,7 +322,7 @@
 <v t="leo.20181214113700.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181221114117.1" a="E"><vh>W15</vh>
+<v t="leo.20181221114117.1"><vh>W15</vh>
 <v t="leo.20181221114117.2" a="E"><vh>W15</vh>
 <v t="leo.20181221114117.3"><vh>封面投影片內容</vh></v>
 </v>
@@ -331,6 +331,23 @@
 </v>
 <v t="leo.20181221114117.6" a="E"><vh>導入影片1</vh>
 <v t="leo.20181221114117.7"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t="leo.20181231235515.1"><vh>W16</vh>
+<v t="leo.20181231235515.2"><vh>W16</vh>
+<v t="leo.20181231235515.3"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181231235515.4"><vh>導入照片1</vh>
+<v t="leo.20181231235515.5"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20181231235656.1"><vh>導入照片2</vh>
+<v t="leo.20181231235656.2"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20181231235515.6"><vh>導入影片1</vh>
+<v t="leo.20181231235515.7"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181231235744.1"><vh>導入影片2</vh>
+<v t="leo.20181231235744.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
@@ -1645,7 +1662,9 @@ make.start()
 <t tx="leo.20181207112725.5">## 組員協同初步設計組合
 
 
-&lt;a href="https://imgur.com/3R5Vo6D"&gt;&lt;img src="https://i.imgur.com/3R5Vo6D.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/3R5Vo6D"&gt;&lt;img src="https://i.imgur.com/3R5Vo6D.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20181214113700.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1797,7 +1816,9 @@ make.start()
 </t>
 <t tx="leo.20181221114117.5">## 小組專題-仿生獸本體
 
-&lt;a href="https://imgur.com/xf2gfpF"&gt;&lt;img src="https://i.imgur.com/xf2gfpF.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/xf2gfpF"&gt;&lt;img src="https://i.imgur.com/xf2gfpF.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20181221114117.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1844,7 +1865,9 @@ make.start()
 <t tx="leo.20181221120823.2">## 組員協同初步設計
 
 
-&lt;a href="https://imgur.com/2i6CPjQ"&gt;&lt;img src="https://i.imgur.com/2i6CPjQ.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/2i6CPjQ"&gt;&lt;img src="https://i.imgur.com/2i6CPjQ.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20181221120840.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1857,7 +1880,9 @@ make.start()
 <t tx="leo.20181221120840.2">## 組員協同初步設計
 
 
-&lt;a href="https://imgur.com/BVTHmOD"&gt;&lt;img src="https://i.imgur.com/BVTHmOD.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/BVTHmOD"&gt;&lt;img src="https://i.imgur.com/BVTHmOD.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20181221120847.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1870,7 +1895,9 @@ make.start()
 <t tx="leo.20181221120847.2">## 組員協同初步設計
 
 
-&lt;a href="https://imgur.com/8ZbB97w"&gt;&lt;img src="https://i.imgur.com/8ZbB97w.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/8ZbB97w"&gt;&lt;img src="https://i.imgur.com/8ZbB97w.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20181221120908.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1883,7 +1910,9 @@ make.start()
 <t tx="leo.20181221120908.2">## 組員協同初步設計
 
 
-&lt;a href="https://imgur.com/ja3YNdw"&gt;&lt;img src="https://i.imgur.com/ja3YNdw.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/ja3YNdw"&gt;&lt;img src="https://i.imgur.com/ja3YNdw.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20181221120913.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1896,7 +1925,9 @@ make.start()
 <t tx="leo.20181221120913.2">## 組員協同初步設計
 
 
-&lt;a href="https://imgur.com/Po50Shh"&gt;&lt;img src="https://i.imgur.com/Po50Shh.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/Po50Shh"&gt;&lt;img src="https://i.imgur.com/Po50Shh.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20181221120919.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1909,7 +1940,9 @@ make.start()
 <t tx="leo.20181221120919.2">## 組員協同初步設計
 
 
-&lt;a href="https://imgur.com/S0zDD8I"&gt;&lt;img src="https://i.imgur.com/S0zDD8I.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/S0zDD8I"&gt;&lt;img src="https://i.imgur.com/S0zDD8I.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20181221120924.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1922,7 +1955,9 @@ make.start()
 <t tx="leo.20181221120924.2">## 組員協同初步設計
 
 
-&lt;a href="https://imgur.com/qAnUU2c"&gt;&lt;img src="https://i.imgur.com/qAnUU2c.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/qAnUU2c"&gt;&lt;img src="https://i.imgur.com/qAnUU2c.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20181221120929.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1968,5 +2003,77 @@ make.start()
 &lt;a href="https://imgur.com/EJ8mi3M"&gt;&lt;img src="https://i.imgur.com/EJ8mi3M.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
 
 </t>
+<t tx="leo.20181231235515.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181231235515.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181231235515.3">## WEEK-16
+### 小組專題-仿生獸零件協同繪製
+
+</t>
+<t tx="leo.20181231235515.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181231235515.5">## 小組專題-仿生獸本體
+
+&lt;a href="https://imgur.com/RGFcmSF"&gt;&lt;img src="https://i.imgur.com/RGFcmSF.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
+<t tx="leo.20181231235515.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181231235515.7">## 小組專題-配合齒輪設計，修改仿生獸本體
+
+
+&lt;iframe width="1045" height="492" src="https://www.youtube.com/embed/8prC-STs8yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181231235656.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181231235656.2">## 小組專題-仿生獸本體
+
+&lt;a href="https://imgur.com/UkBRsV8"&gt;&lt;img src="https://i.imgur.com/UkBRsV8.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
+<t tx="leo.20181231235744.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181231235744.2">## 小組專題-配合齒輪設計，修改仿生獸本體
+
+
+&lt;iframe width="1045" height="492" src="https://www.youtube.com/embed/AaWqk-W5jMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
