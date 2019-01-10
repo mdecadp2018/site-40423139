@@ -358,7 +358,7 @@
 <v t="leo.20190111022013.5"><vh>iframe 導入照片</vh></v>
 </v>
 </v>
-<v t="leo.20190111022015.1"><vh>W18</vh>
+<v t="leo.20190111022015.1" a="E"><vh>W18</vh>
 <v t="leo.20190111022015.2"><vh>W18</vh>
 <v t="leo.20190111022015.3"><vh>封面投影片內容</vh></v>
 </v>
@@ -371,31 +371,37 @@
 <v t="leo.20190111031336.1"><vh>導入照片3</vh>
 <v t="leo.20190111031336.2"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20190111031338.1"><vh>導入照片4</vh>
+<v t="leo.20190111031338.1" a="E"><vh>導入照片4</vh>
 <v t="leo.20190111031338.2"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20190111023955.1"><vh>導入照片5</vh>
+<v t="leo.20190111023955.1" a="E"><vh>導入照片5</vh>
 <v t="leo.20190111023955.2"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20190111023956.1"><vh>導入照片6</vh>
+<v t="leo.20190111023956.1" a="E"><vh>導入照片6</vh>
 <v t="leo.20190111023956.2"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20190111023958.1"><vh>導入照片7</vh>
+<v t="leo.20190111023958.1" a="E"><vh>導入照片7</vh>
 <v t="leo.20190111023958.2"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20190111024000.1"><vh>導入照片8</vh>
+<v t="leo.20190111074123.1" a="E"><vh>導入照片8</vh>
+<v t="leo.20190111074123.2"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20190111074315.1" a="E"><vh>導入照片9</vh>
+<v t="leo.20190111074315.2"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20190111024000.1" a="E"><vh>導入照片10</vh>
 <v t="leo.20190111024000.2"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20190111024001.1"><vh>導入照片9</vh>
+<v t="leo.20190111024001.1"><vh>導入照片11</vh>
 <v t="leo.20190111024001.2"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20190111024002.1"><vh>導入照片10</vh>
+<v t="leo.20190111024002.1"><vh>導入照片12</vh>
 <v t="leo.20190111024002.2"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20190111024004.1"><vh>導入照片11</vh>
+<v t="leo.20190111024004.1"><vh>導入照片13</vh>
 <v t="leo.20190111024004.2"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20190111024005.1"><vh>導入照片12</vh>
+<v t="leo.20190111024005.1"><vh>導入照片14</vh>
 <v t="leo.20190111024005.2"><vh>iframe 導入照片</vh></v>
 </v>
 </v>
@@ -2159,7 +2165,9 @@ make.start()
 </t>
 <t tx="leo.20190111022013.5">## 小組專題-V-REP模擬
 
-&lt;a href="https://imgur.com/CKsjrl5"&gt;&lt;img src="https://i.imgur.com/CKsjrl5.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/CKsjrl5"&gt;&lt;img src="https://i.imgur.com/CKsjrl5.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190111022015.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -2205,7 +2213,9 @@ make.start()
 <t tx="leo.20190111022015.7">## 使用GITHUB管理及維護個人網誌
 
 
-&lt;a href="https://imgur.com/Qwbl4xr"&gt;&lt;img src="https://i.imgur.com/Qwbl4xr.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/Qwbl4xr"&gt;&lt;img src="https://i.imgur.com/Qwbl4xr.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190111023955.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2218,7 +2228,9 @@ make.start()
 <t tx="leo.20190111023955.2">## 利用Onshape練習繪製各類型特徵
 
 
-&lt;a href="https://imgur.com/d0Nky47"&gt;&lt;img src="https://i.imgur.com/d0Nky47.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/d0Nky47"&gt;&lt;img src="https://i.imgur.com/d0Nky47.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190111023956.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2232,7 +2244,9 @@ make.start()
 
 
 
-&lt;a href="https://imgur.com/KituSr3"&gt;&lt;img src="https://i.imgur.com/KituSr3.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/KituSr3"&gt;&lt;img src="https://i.imgur.com/KituSr3.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190111023958.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2245,7 +2259,9 @@ make.start()
 <t tx="leo.20190111023958.2">## 小組期末專題製作
 
 
-&lt;a href="https://imgur.com/5D8O442"&gt;&lt;img src="https://i.imgur.com/5D8O442.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/5D8O442"&gt;&lt;img src="https://i.imgur.com/5D8O442.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190111024000.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2258,7 +2274,9 @@ make.start()
 <t tx="leo.20190111024000.2">## 在Onshape建立團隊
 
 
-&lt;a href="https://imgur.com/QHSFTTV"&gt;&lt;img src="https://i.imgur.com/QHSFTTV.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/QHSFTTV"&gt;&lt;img src="https://i.imgur.com/QHSFTTV.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190111024001.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2271,7 +2289,9 @@ make.start()
 <t tx="leo.20190111024001.2">## 與組員協同繪製
 
 
-&lt;a href="https://imgur.com/yQPKIpV"&gt;&lt;img src="https://i.imgur.com/yQPKIpV.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/yQPKIpV"&gt;&lt;img src="https://i.imgur.com/yQPKIpV.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190111024002.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2284,7 +2304,9 @@ make.start()
 <t tx="leo.20190111024002.2">## 與組員協同繪製
 
 
-&lt;a href="https://imgur.com/eWNqGMB"&gt;&lt;img src="https://i.imgur.com/eWNqGMB.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/eWNqGMB"&gt;&lt;img src="https://i.imgur.com/eWNqGMB.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190111024004.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2297,7 +2319,9 @@ make.start()
 <t tx="leo.20190111024004.2">## 組員使用V-REP進行模擬
 
 
-&lt;a href="https://imgur.com/CKsjrl5"&gt;&lt;img src="https://i.imgur.com/CKsjrl5.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/CKsjrl5"&gt;&lt;img src="https://i.imgur.com/CKsjrl5.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190111024005.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2310,7 +2334,9 @@ make.start()
 <t tx="leo.20190111024005.2">## 使用3D列印製作實體
 
 
-&lt;a href="https://imgur.com/H9hqgwE"&gt;&lt;img src="https://i.imgur.com/H9hqgwE.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/H9hqgwE"&gt;&lt;img src="https://i.imgur.com/H9hqgwE.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190111031336.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2323,7 +2349,9 @@ make.start()
 <t tx="leo.20190111031336.2">## 使用GITHUB管理及維護個人網誌
 
 
-&lt;a href="https://imgur.com/NDFTYT1"&gt;&lt;img src="https://i.imgur.com/NDFTYT1.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/NDFTYT1"&gt;&lt;img src="https://i.imgur.com/NDFTYT1.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190111031338.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2336,6 +2364,34 @@ make.start()
 <t tx="leo.20190111031338.2">## 使用GITHUB管理及維護個人網誌
 
 
-&lt;a href="https://imgur.com/TAi4kzs"&gt;&lt;img src="https://i.imgur.com/TAi4kzs.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/TAi4kzs"&gt;&lt;img src="https://i.imgur.com/TAi4kzs.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
+<t tx="leo.20190111074123.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111074123.2">## 建立小組網站
+
+
+&lt;a href="https://imgur.com/031J5Vr"&gt;&lt;img src="https://i.imgur.com/031J5Vr.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20190111074315.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111074315.2">## 小組專題
+
+
+&lt;a href="https://imgur.com/i1u2rfp"&gt;&lt;img src="https://i.imgur.com/i1u2rfp.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
 </tnodes>
 </leo_file>
