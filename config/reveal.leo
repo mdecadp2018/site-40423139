@@ -350,6 +350,55 @@
 <v t="leo.20181231235744.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
+<v t="leo.20190111022013.1"><vh>W17</vh>
+<v t="leo.20190111022013.2"><vh>W17</vh>
+<v t="leo.20190111022013.3"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190111022013.4"><vh>導入照片1</vh>
+<v t="leo.20190111022013.5"><vh>iframe 導入照片</vh></v>
+</v>
+</v>
+<v t="leo.20190111022015.1"><vh>W18</vh>
+<v t="leo.20190111022015.2"><vh>W18</vh>
+<v t="leo.20190111022015.3"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190111022015.4"><vh>導入照片1</vh>
+<v t="leo.20190111022015.5"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20190111022015.6"><vh>導入照片2</vh>
+<v t="leo.20190111022015.7"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20190111031336.1"><vh>導入照片3</vh>
+<v t="leo.20190111031336.2"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20190111031338.1"><vh>導入照片4</vh>
+<v t="leo.20190111031338.2"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20190111023955.1"><vh>導入照片5</vh>
+<v t="leo.20190111023955.2"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20190111023956.1"><vh>導入照片6</vh>
+<v t="leo.20190111023956.2"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20190111023958.1"><vh>導入照片7</vh>
+<v t="leo.20190111023958.2"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20190111024000.1"><vh>導入照片8</vh>
+<v t="leo.20190111024000.2"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20190111024001.1"><vh>導入照片9</vh>
+<v t="leo.20190111024001.2"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20190111024002.1"><vh>導入照片10</vh>
+<v t="leo.20190111024002.2"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20190111024004.1"><vh>導入照片11</vh>
+<v t="leo.20190111024004.2"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20190111024005.1"><vh>導入照片12</vh>
+<v t="leo.20190111024005.2"><vh>iframe 導入照片</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -2048,7 +2097,9 @@ make.start()
 <t tx="leo.20181231235515.7">## 小組專題-配合齒輪設計，修改仿生獸本體
 
 
-&lt;iframe width="1045" height="492" src="https://www.youtube.com/embed/8prC-STs8yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="1045" height="492" src="https://www.youtube.com/embed/8prC-STs8yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181231235656.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2074,6 +2125,217 @@ make.start()
 <t tx="leo.20181231235744.2">## 小組專題-配合齒輪設計，修改仿生獸本體
 
 
-&lt;iframe width="1045" height="492" src="https://www.youtube.com/embed/AaWqk-W5jMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="1045" height="492" src="https://www.youtube.com/embed/AaWqk-W5jMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20190111022013.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111022013.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111022013.3">## WEEK-17
+### 小組專題-仿生獸零件協同繪製
+
+</t>
+<t tx="leo.20190111022013.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111022013.5">## 小組專題-V-REP
+
+</t>
+<t tx="leo.20190111022015.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111022015.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111022015.3">## WEEK-18
+### 期末總結
+
+</t>
+<t tx="leo.20190111022015.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111022015.5">## 使用GITHUB管理及維護個人網誌
+
+&lt;a href="https://imgur.com/rBLvtGr"&gt;&lt;img src="https://i.imgur.com/rBLvtGr.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
+<t tx="leo.20190111022015.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111022015.7">## 使用GITHUB管理及維護個人網誌
+
+
+&lt;a href="https://imgur.com/Qwbl4xr"&gt;&lt;img src="https://i.imgur.com/Qwbl4xr.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20190111023955.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111023955.2">## 利用Onshape練習繪製各類型特徵
+
+
+&lt;a href="https://imgur.com/d0Nky47"&gt;&lt;img src="https://i.imgur.com/d0Nky47.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20190111023956.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111023956.2">## 利用Onshape練習繪製各類型特徵
+
+
+
+&lt;a href="https://imgur.com/KituSr3"&gt;&lt;img src="https://i.imgur.com/KituSr3.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20190111023958.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111023958.2">## 小組期末專題製作
+
+
+&lt;a href="https://imgur.com/5D8O442"&gt;&lt;img src="https://i.imgur.com/5D8O442.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20190111024000.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111024000.2">## 在Onshape建立團隊
+
+
+&lt;a href="https://imgur.com/QHSFTTV"&gt;&lt;img src="https://i.imgur.com/QHSFTTV.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20190111024001.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111024001.2">## 與組員協同繪製
+
+
+&lt;a href="https://imgur.com/yQPKIpV"&gt;&lt;img src="https://i.imgur.com/yQPKIpV.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20190111024002.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111024002.2">## 與組員協同繪製
+
+
+&lt;a href="https://imgur.com/eWNqGMB"&gt;&lt;img src="https://i.imgur.com/eWNqGMB.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20190111024004.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111024004.2">## 組員使用V-REP進行模擬
+
+
+&lt;a href="https://imgur.com/CKsjrl5"&gt;&lt;img src="https://i.imgur.com/CKsjrl5.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20190111024005.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111024005.2">## 使用3D列印製作實體
+
+
+&lt;a href="https://imgur.com/H9hqgwE"&gt;&lt;img src="https://i.imgur.com/H9hqgwE.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20190111031336.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111031336.2">## 使用GITHUB管理及維護個人網誌
+
+
+&lt;a href="https://imgur.com/NDFTYT1"&gt;&lt;img src="https://i.imgur.com/NDFTYT1.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20190111031338.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111031338.2">## 使用GITHUB管理及維護個人網誌
+
+
+&lt;a href="https://imgur.com/TAi4kzs"&gt;&lt;img src="https://i.imgur.com/TAi4kzs.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
 </tnodes>
 </leo_file>
