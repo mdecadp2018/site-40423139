@@ -350,11 +350,11 @@
 <v t="leo.20181231235744.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20190111022013.1"><vh>W17</vh>
+<v t="leo.20190111022013.1" a="E"><vh>W17</vh>
 <v t="leo.20190111022013.2"><vh>W17</vh>
 <v t="leo.20190111022013.3"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190111022013.4"><vh>導入照片1</vh>
+<v t="leo.20190111022013.4" a="E"><vh>導入照片1</vh>
 <v t="leo.20190111022013.5"><vh>iframe 導入照片</vh></v>
 </v>
 </v>
@@ -2157,9 +2157,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190111022013.5">## 小組專題-V-REP
+<t tx="leo.20190111022013.5">## 小組專題-V-REP模擬
 
-</t>
+&lt;a href="https://imgur.com/CKsjrl5"&gt;&lt;img src="https://i.imgur.com/CKsjrl5.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
 <t tx="leo.20190111022015.1">&lt;section&gt;
 @others
 &lt;/section&gt;
