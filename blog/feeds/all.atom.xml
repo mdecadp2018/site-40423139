@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2019-01-11T09:00:00+08:00</updated><entry><title>2018 Fall 第十八週網誌</title><link href="./2018-Fall-Project-Blog-W18.html" rel="alternate"></link><published>2019-01-11T09:00:00+08:00</published><updated>2019-01-11T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2019-01-11:./2018-Fall-Project-Blog-W18.html</id><summary type="html">&lt;p&gt;期末總結&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;期末總結&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2019-01-11T09:00:00+08:00</updated><entry><title>2018 Fall 第十八週網誌</title><link href="./2018-Fall-Project-Blog-W18.html" rel="alternate"></link><published>2019-01-11T09:00:00+08:00</published><updated>2019-01-11T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2019-01-11:./2018-Fall-Project-Blog-W18.html</id><summary type="html">&lt;p&gt;期末總結影片&lt;/p&gt;
+&lt;p&gt;期末心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;期末總結影片&lt;/p&gt;
+&lt;p&gt;期末心得&lt;/p&gt;
 
 
 &lt;p&gt;期末總結影片&lt;/p&gt;
-&lt;iframe width="1045" height="492" src="https://www.youtube.com/embed/hoHoeEZj4pY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2018Fall-W18"></category></entry><entry><title>2018 Fall 第十七週網誌</title><link href="./2018-Fall-Project-Blog-W17.html" rel="alternate"></link><published>2019-01-04T09:00:00+08:00</published><updated>2019-01-04T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2019-01-04:./2018-Fall-Project-Blog-W17.html</id><summary type="html">&lt;p&gt;小組專題進度&lt;/p&gt;
+&lt;iframe width="1045" height="492" src="https://www.youtube.com/embed/hoHoeEZj4pY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;期末心得：這學期利用Github來進行個人及小組網誌的編輯與維護，我覺得Github具備了很多好處，例如只要一個隨身碟就能夠在不同的電腦上進行編輯，小組的網誌也不用擔心每個人的版本差異而導致混亂
+，還能夠紀錄每次推送的資料。我們在設計時是使用Onshape來進行小組專題的機構設計，雖然在繪製時必須連接網路，但好處是只要開個網頁就能夠進行繪圖了，不需要下載其他軟體，也能與組員協同進行設計。這些工具都能夠很方便的協助我們進行個人及團體的設計。&lt;/p&gt;</content><category term="2018Fall-W18"></category></entry><entry><title>2018 Fall 第十七週網誌</title><link href="./2018-Fall-Project-Blog-W17.html" rel="alternate"></link><published>2019-01-04T09:00:00+08:00</published><updated>2019-01-04T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2019-01-04:./2018-Fall-Project-Blog-W17.html</id><summary type="html">&lt;p&gt;小組專題進度&lt;/p&gt;
+&lt;p&gt;每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;小組專題進度&lt;/p&gt;
+&lt;p&gt;每周心得&lt;/p&gt;
 
 
 &lt;h2&gt;小組專題進度：&lt;/h2&gt;
 &lt;p&gt;小組決定將所繪製的行走機構實體化&lt;/p&gt;
 &lt;p&gt;使用3D列印將各零件製作出來&lt;/p&gt;
 &lt;p&gt;成品圖：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://imgur.com/H9hqgwE"&gt;&lt;img src="https://i.imgur.com/H9hqgwE.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</content><category term="2018Fall-W17"></category></entry><entry><title>2018 Fall 第十六週網誌</title><link href="./2018-Fall-Project-Blog-W16.html" rel="alternate"></link><published>2018-12-28T09:00:00+08:00</published><updated>2018-12-28T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2018-12-28:./2018-Fall-Project-Blog-W16.html</id><summary type="html">&lt;p&gt;小組專題進度&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://imgur.com/H9hqgwE"&gt;&lt;img src="https://i.imgur.com/H9hqgwE.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;每周心得：製作成實體的過程並不容易，因為是選擇使用3D列印的方式製作，必須考量在列印時所產生的尺寸公差，如果不修改一些細微尺寸的話，在實體的裝配上就會非常的困難。經討論後和組員馬上在Onshape上修改一些孔洞的尺寸，讓列印出的成品有更好的配合。&lt;/p&gt;</content><category term="2018Fall-W17"></category></entry><entry><title>2018 Fall 第十六週網誌</title><link href="./2018-Fall-Project-Blog-W16.html" rel="alternate"></link><published>2018-12-28T09:00:00+08:00</published><updated>2018-12-28T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2018-12-28:./2018-Fall-Project-Blog-W16.html</id><summary type="html">&lt;p&gt;小組專題進度&lt;/p&gt;
+&lt;p&gt;每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;小組專題進度&lt;/p&gt;
+&lt;p&gt;每周心得&lt;/p&gt;
 
 
 &lt;h2&gt;小組專題進度：&lt;/h2&gt;
@@ -23,8 +33,12 @@
 &lt;p&gt;繪製影片：&lt;/p&gt;
 &lt;iframe width="1045" height="492" src="https://www.youtube.com/embed/8prC-STs8yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;iframe width="1045" height="492" src="https://www.youtube.com/embed/AaWqk-W5jMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2018Fall-W16"></category></entry><entry><title>2018 Fall 第十五週網誌</title><link href="./2018-Fall-Project-Blog-W15.html" rel="alternate"></link><published>2018-12-21T09:00:00+08:00</published><updated>2018-12-21T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2018-12-21:./2018-Fall-Project-Blog-W15.html</id><summary type="html">&lt;p&gt;小組專題進度&lt;/p&gt;
+&lt;iframe width="1045" height="492" src="https://www.youtube.com/embed/AaWqk-W5jMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;每周心得：原本有先將本體的初步構造設計出來，不過在組員將齒輪設計出來時得到每個齒輪軸心的間隔距離，就必須再做修改，利用Onshape的團隊功能，可以很方便的在線上做修改，只要一有變動都會立即更新，可以省去因為多次修改而有不同版本的麻煩，這樣可以很方便快速地去做設計變更。&lt;/p&gt;</content><category term="2018Fall-W16"></category></entry><entry><title>2018 Fall 第十五週網誌</title><link href="./2018-Fall-Project-Blog-W15.html" rel="alternate"></link><published>2018-12-21T09:00:00+08:00</published><updated>2018-12-21T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2018-12-21:./2018-Fall-Project-Blog-W15.html</id><summary type="html">&lt;p&gt;小組專題進度&lt;/p&gt;
+&lt;p&gt;每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;小組專題進度&lt;/p&gt;
+&lt;p&gt;每周心得&lt;/p&gt;
 
 
 &lt;p&gt;練習使用V-REP進行零件模擬分析&lt;/p&gt;
@@ -32,10 +46,14 @@
 &lt;p&gt;協同仿生獸本體設計繪製&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://imgur.com/xf2gfpF"&gt;&lt;img src="https://i.imgur.com/xf2gfpF.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;繪製影片：&lt;/p&gt;
-&lt;iframe width="1045" height="492" src="https://www.youtube.com/embed/H8tTzjOxyZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2018Fall-W15"></category></entry><entry><title>2018 Fall 第十四週網誌</title><link href="./2018-Fall-Project-Blog-W14.html" rel="alternate"></link><published>2018-12-14T09:00:00+08:00</published><updated>2018-12-14T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2018-12-14:./2018-Fall-Project-Blog-W14.html</id><summary type="html">&lt;p&gt;十四週上課內容&lt;/p&gt;
+&lt;iframe width="1045" height="492" src="https://www.youtube.com/embed/H8tTzjOxyZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;每周心得：腳部的設計出部的完成後，可以大概抓出每一組腳的間隔距離，所以就可以先初步的繪製行走機構的本體，在本體上有繪製出馬達的擺放位置，預留之後實體化時的安裝空間，不過組員們希望能夠加裝減速齒輪，藉此達到增加輸出的效果，我們也利用Onshape的好處，方便在線上修改，這樣之後將齒輪設計完成後也能快速的設計變更本體的部分。&lt;/p&gt;</content><category term="2018Fall-W15"></category></entry><entry><title>2018 Fall 第十四週網誌</title><link href="./2018-Fall-Project-Blog-W14.html" rel="alternate"></link><published>2018-12-14T09:00:00+08:00</published><updated>2018-12-14T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2018-12-14:./2018-Fall-Project-Blog-W14.html</id><summary type="html">&lt;p&gt;十四週上課內容&lt;/p&gt;
 &lt;p&gt;小組專題進度&lt;/p&gt;
+&lt;p&gt;每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;十四週上課內容&lt;/p&gt;
 &lt;p&gt;小組專題進度&lt;/p&gt;
+&lt;p&gt;每周心得&lt;/p&gt;
 
 
 &lt;h2&gt;課程內容：&lt;/h2&gt;
@@ -61,20 +79,26 @@
 &lt;p&gt;繪製部位：GHI&lt;/p&gt;
 &lt;iframe width="1045" height="513" src="https://www.youtube.com/embed/GrvgK9jpaSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
+&lt;p&gt;每周心得：這周繪製了新的一組腳部的設計，我們將整體的連桿厚度增加了不少，以及在考慮了組裝的可行性後有做了些修正，這時也真的再次感覺到Onshaoe在線上進行編輯繪製的方便性，與組員共同設計時，可以隨時查看各零件的尺寸大小和裝配時有無問題。&lt;/p&gt;
 &lt;p&gt;參考資料網址：http://www.strandbeest.com/beests_leg.php&lt;/p&gt;</content><category term="2018Fall-W14"></category></entry><entry><title>2018 Fall 第十三週網誌</title><link href="./2018-Fall-Project-Blog-W13.html" rel="alternate"></link><published>2018-12-07T09:00:00+08:00</published><updated>2018-12-07T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2018-12-07:./2018-Fall-Project-Blog-W13.html</id><summary type="html">&lt;p&gt;十三週上課內容&lt;/p&gt;
+&lt;p&gt;每周心得&lt;/p&gt;
 &lt;p&gt;小組專題進度&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;十三週上課內容&lt;/p&gt;
+&lt;p&gt;每周心得&lt;/p&gt;
 &lt;p&gt;小組專題進度&lt;/p&gt;
 
 
 &lt;h2&gt;小組專題進度：&lt;/h2&gt;
 &lt;p&gt;組員協同組裝零件&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://imgur.com/3R5Vo6D"&gt;&lt;img src="https://i.imgur.com/3R5Vo6D.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</content><category term="2018Fall-W13"></category></entry><entry><title>2018 Fall 第十二週網誌</title><link href="./2018-Fall-Project-Blog-W12.html" rel="alternate"></link><published>2018-11-30T09:00:00+08:00</published><updated>2018-11-30T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2018-11-30:./2018-Fall-Project-Blog-W12.html</id><summary type="html">&lt;p&gt;十二週上課內容&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://imgur.com/3R5Vo6D"&gt;&lt;img src="https://i.imgur.com/3R5Vo6D.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;每周心得：在將各零件完成後，就可以進行組裝了，雖然在組裝完成後確定連桿沒有太大的問題，但要以實體話來說，這個版本的機構太薄了，對於實際組裝也不是那麼的方便，所以和另一名組員討論後決定再重新設計一次。&lt;/p&gt;</content><category term="2018Fall-W13"></category></entry><entry><title>2018 Fall 第十二週網誌</title><link href="./2018-Fall-Project-Blog-W12.html" rel="alternate"></link><published>2018-11-30T09:00:00+08:00</published><updated>2018-11-30T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2018-11-30:./2018-Fall-Project-Blog-W12.html</id><summary type="html">&lt;p&gt;十二週上課內容&lt;/p&gt;
 &lt;p&gt;小組專題進度&lt;/p&gt;
 &lt;p&gt;在Onshape建立小組團隊&lt;/p&gt;
+&lt;p&gt;每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;十二週上課內容&lt;/p&gt;
 &lt;p&gt;小組專題進度&lt;/p&gt;
 &lt;p&gt;在Onshape建立小組團隊&lt;/p&gt;
+&lt;p&gt;每周心得&lt;/p&gt;
 
 
 &lt;h2&gt;課程內容：&lt;/h2&gt;
@@ -84,6 +108,8 @@
 &lt;h2&gt;小組專題進度：&lt;/h2&gt;
 &lt;p&gt;在Onshape建立小組團隊，進行協同設計&lt;/p&gt;
 &lt;p&gt;組員協同進行初步零件設計&lt;/p&gt;
+&lt;p&gt;建立Onshape團隊&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://imgur.com/QHSFTTV"&gt;&lt;img src="https://i.imgur.com/QHSFTTV.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;設計工程圖&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://imgur.com/MD0UobC"&gt;&lt;img src="https://i.imgur.com/MD0UobC.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;零件圖&lt;/p&gt;
@@ -94,10 +120,13 @@
 &lt;p&gt;&lt;a href="https://imgur.com/Po50Shh"&gt;&lt;img src="https://i.imgur.com/Po50Shh.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://imgur.com/S0zDD8I"&gt;&lt;img src="https://i.imgur.com/S0zDD8I.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://imgur.com/qAnUU2c"&gt;&lt;img src="https://i.imgur.com/qAnUU2c.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://imgur.com/tjcfgDr"&gt;&lt;img src="https://i.imgur.com/tjcfgDr.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</content><category term="2018Fall-W12"></category></entry><entry><title>2018 Fall 第十一週網誌</title><link href="./2018-Fall-Project-Blog-W11.html" rel="alternate"></link><published>2018-11-23T09:00:00+08:00</published><updated>2018-11-23T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2018-11-23:./2018-Fall-Project-Blog-W11.html</id><summary type="html">&lt;p&gt;十一週上課內容&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://imgur.com/tjcfgDr"&gt;&lt;img src="https://i.imgur.com/tjcfgDr.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;每周心得：這周進行行走機構腳部的初步繪製，雖然solvespace可以很快速地進行繪製零件，但沒辦法與他人共同編輯檔案，如果有許多人一起繪製的話，會有各種版本沒辦法統一的情況發生，所以我們選擇在Onshape進行繪製，首先建立小組團隊，團隊裡的人可以進行協同設計、修改等，很方便地達到小組設計的需求。&lt;/p&gt;</content><category term="2018Fall-W12"></category></entry><entry><title>2018 Fall 第十一週網誌</title><link href="./2018-Fall-Project-Blog-W11.html" rel="alternate"></link><published>2018-11-23T09:00:00+08:00</published><updated>2018-11-23T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2018-11-23:./2018-Fall-Project-Blog-W11.html</id><summary type="html">&lt;p&gt;十一週上課內容&lt;/p&gt;
 &lt;p&gt;小組專題進度&lt;/p&gt;
+&lt;p&gt;每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;十一週上課內容&lt;/p&gt;
 &lt;p&gt;小組專題進度&lt;/p&gt;
+&lt;p&gt;每周心得&lt;/p&gt;
 
 
 &lt;h2&gt;課程內容：&lt;/h2&gt;
@@ -112,7 +141,8 @@
 &lt;p&gt;利用solvespace進行初步繪製&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://imgur.com/veFDNcL"&gt;&lt;img src="https://i.imgur.com/veFDNcL.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;軌跡圖&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://imgur.com/i1u2rfp"&gt;&lt;img src="https://i.imgur.com/i1u2rfp.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</content><category term="2018Fall-W11"></category></entry><entry><title>2018 Fall 第九週網誌</title><link href="./2018-Fall-Project-Blog-W09.html" rel="alternate"></link><published>2018-11-04T09:00:00+08:00</published><updated>2018-11-04T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2018-11-04:./2018-Fall-Project-Blog-W09.html</id><summary type="html">&lt;p&gt;HW09作業內容&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://imgur.com/i1u2rfp"&gt;&lt;img src="https://i.imgur.com/i1u2rfp.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;每周心得：在與組員討論後，決定製作與行走機構相關的專題，為了能夠了解行走機構腳部的連桿位置以及行走時的軌跡，我們利用solvespace來進行繪製，solvespace雖然功能簡單，但是非常的方便，只要有個隨身碟就能夠隨身攜帶，而且還能夠看單一點在作動時所運行的軌跡，我們經由此功能知道在行走時會有一段水平移動，了解行走時的連桿位置。&lt;/p&gt;</content><category term="2018Fall-W11"></category></entry><entry><title>2018 Fall 第九週網誌</title><link href="./2018-Fall-Project-Blog-W09.html" rel="alternate"></link><published>2018-11-04T09:00:00+08:00</published><updated>2018-11-04T09:00:00+08:00</updated><author><name>40423139</name></author><id>tag:None,2018-11-04:./2018-Fall-Project-Blog-W09.html</id><summary type="html">&lt;p&gt;HW09作業內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;HW09作業內容&lt;/p&gt;
 
 
