@@ -243,18 +243,21 @@
 <v t="leo.20181130113138.2"><vh>W11</vh>
 <v t="leo.20181130113138.3"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181130113138.4" a="E"><vh>導入照片1</vh>
+<v t="leo.20181130113138.4"><vh>導入照片1</vh>
 <v t="leo.20181130113138.5"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20181130113138.6" a="E"><vh>導入照片2</vh>
+<v t="leo.20181130113138.6"><vh>導入照片2</vh>
 <v t="leo.20181130113138.7"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20181221114628.1" a="E"><vh>導入照片3</vh>
+<v t="leo.20181221114628.1"><vh>導入照片3</vh>
 <v t="leo.20181221114628.2"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20190114195414.1"><vh>總結</vh>
+<v t="leo.20190114195414.2"><vh>iframe 每周心得</vh></v>
 </v>
 </v>
 <v t="leo.20181130113144.1"><vh>W12</vh>
-<v t="leo.20181130113144.2" a="E"><vh>W12</vh>
+<v t="leo.20181130113144.2"><vh>W12</vh>
 <v t="leo.20181221120544.1"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181221120937.1"><vh>導入照片1</vh>
@@ -287,13 +290,19 @@
 <v t="leo.20181221120823.1"><vh>導入照片10</vh>
 <v t="leo.20181221120823.2"><vh>iframe 導入照片</vh></v>
 </v>
+<v t="leo.20190114195350.1"><vh>總結</vh>
+<v t="leo.20190114195350.2"><vh>iframe 每周心得</vh></v>
+</v>
 </v>
 <v t="leo.20181207112725.1"><vh>W13</vh>
-<v t="leo.20181207112725.2" a="E"><vh>W13</vh>
+<v t="leo.20181207112725.2"><vh>W13</vh>
 <v t="leo.20181207112725.3"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181207112725.4" a="E"><vh>導入照片1</vh>
+<v t="leo.20181207112725.4"><vh>導入照片1</vh>
 <v t="leo.20181207112725.5"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20190114195318.1"><vh>總結</vh>
+<v t="leo.20190114195318.2"><vh>iframe 每周心得</vh></v>
 </v>
 </v>
 <v t="leo.20181214113700.1"><vh>W14</vh>
@@ -321,16 +330,22 @@
 <v t="leo.20181214113700.18"><vh>導入影片6</vh>
 <v t="leo.20181214113700.19"><vh>iframe 導入影片</vh></v>
 </v>
+<v t="leo.20190114195255.1"><vh>總結</vh>
+<v t="leo.20190114195255.2"><vh>iframe 每周心得</vh></v>
+</v>
 </v>
 <v t="leo.20181221114117.1"><vh>W15</vh>
-<v t="leo.20181221114117.2" a="E"><vh>W15</vh>
+<v t="leo.20181221114117.2"><vh>W15</vh>
 <v t="leo.20181221114117.3"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181221114117.4" a="E"><vh>導入照片1</vh>
+<v t="leo.20181221114117.4"><vh>導入照片1</vh>
 <v t="leo.20181221114117.5"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20181221114117.6" a="E"><vh>導入影片1</vh>
+<v t="leo.20181221114117.6"><vh>導入影片1</vh>
 <v t="leo.20181221114117.7"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20190114195206.1"><vh>總結</vh>
+<v t="leo.20190114195206.2"><vh>iframe 每周心得</vh></v>
 </v>
 </v>
 <v t="leo.20181231235515.1"><vh>W16</vh>
@@ -349,16 +364,25 @@
 <v t="leo.20181231235744.1"><vh>導入影片2</vh>
 <v t="leo.20181231235744.2"><vh>iframe 導入影片</vh></v>
 </v>
+<v t="leo.20190114195128.1"><vh>總結</vh>
+<v t="leo.20190114195128.2"><vh>iframe 每周心得</vh></v>
 </v>
-<v t="leo.20190111022013.1" a="E"><vh>W17</vh>
+</v>
+<v t="leo.20190111022013.1"><vh>W17</vh>
 <v t="leo.20190111022013.2"><vh>W17</vh>
 <v t="leo.20190111022013.3"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190111022013.4" a="E"><vh>導入照片1</vh>
+<v t="leo.20190111022013.4"><vh>導入照片1</vh>
 <v t="leo.20190111022013.5"><vh>iframe 導入照片</vh></v>
 </v>
+<v t="leo.20190114194900.1"><vh>導入照片2</vh>
+<v t="leo.20190114194900.2"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20190111022015.1" a="E"><vh>W18</vh>
+<v t="leo.20190114194825.1"><vh>總結</vh>
+<v t="leo.20190114194825.2"><vh>iframe 每周心得</vh></v>
+</v>
+</v>
+<v t="leo.20190111022015.1"><vh>W18</vh>
 <v t="leo.20190111022015.2"><vh>W18</vh>
 <v t="leo.20190111022015.3"><vh>封面投影片內容</vh></v>
 </v>
@@ -371,25 +395,25 @@
 <v t="leo.20190111031336.1"><vh>導入照片3</vh>
 <v t="leo.20190111031336.2"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20190111031338.1" a="E"><vh>導入照片4</vh>
+<v t="leo.20190111031338.1"><vh>導入照片4</vh>
 <v t="leo.20190111031338.2"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20190111023955.1" a="E"><vh>導入照片5</vh>
+<v t="leo.20190111023955.1"><vh>導入照片5</vh>
 <v t="leo.20190111023955.2"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20190111023956.1" a="E"><vh>導入照片6</vh>
+<v t="leo.20190111023956.1"><vh>導入照片6</vh>
 <v t="leo.20190111023956.2"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20190111023958.1" a="E"><vh>導入照片7</vh>
+<v t="leo.20190111023958.1"><vh>導入照片7</vh>
 <v t="leo.20190111023958.2"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20190111074123.1" a="E"><vh>導入照片8</vh>
+<v t="leo.20190111074123.1"><vh>導入照片8</vh>
 <v t="leo.20190111074123.2"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20190111074315.1" a="E"><vh>導入照片9</vh>
+<v t="leo.20190111074315.1"><vh>導入照片9</vh>
 <v t="leo.20190111074315.2"><vh>iframe 導入照片</vh></v>
 </v>
-<v t="leo.20190111024000.1" a="E"><vh>導入照片10</vh>
+<v t="leo.20190111024000.1"><vh>導入照片10</vh>
 <v t="leo.20190111024000.2"><vh>iframe 導入照片</vh></v>
 </v>
 <v t="leo.20190111024001.1"><vh>導入照片11</vh>
@@ -403,6 +427,9 @@
 </v>
 <v t="leo.20190111024005.1"><vh>導入照片14</vh>
 <v t="leo.20190111024005.2"><vh>iframe 導入照片</vh></v>
+</v>
+<v t="leo.20190114194553.1"><vh>總結</vh>
+<v t="leo.20190114194553.2"><vh>iframe 每周心得</vh></v>
 </v>
 </v>
 </v>
@@ -2379,7 +2406,9 @@ make.start()
 <t tx="leo.20190111074123.2">## 建立小組網站
 
 
-&lt;a href="https://imgur.com/031J5Vr"&gt;&lt;img src="https://i.imgur.com/031J5Vr.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/031J5Vr"&gt;&lt;img src="https://i.imgur.com/031J5Vr.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190111074315.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2392,6 +2421,117 @@ make.start()
 <t tx="leo.20190111074315.2">## 小組專題
 
 
-&lt;a href="https://imgur.com/i1u2rfp"&gt;&lt;img src="https://i.imgur.com/i1u2rfp.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/i1u2rfp"&gt;&lt;img src="https://i.imgur.com/i1u2rfp.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
+<t tx="leo.20190114194553.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190114194553.2">## 心得總結
+
+期末心得：這學期利用Github來進行個人及小組網誌的編輯與維護，我覺得Github具備了很多好處，例如只要一個隨身碟就能夠在不同的電腦上進行編輯，小組的網誌也不用擔心每個人的版本差異而導致混亂
+，還能夠紀錄每次推送的資料。我們在設計時是使用Onshape來進行小組專題的機構設計，雖然在繪製時必須連接網路，但好處是只要開個網頁就能夠進行繪圖了，不需要下載其他軟體，也能與組員協同進行設計。這些工具都能夠很方便的協助我們進行個人及團體的設計。</t>
+<t tx="leo.20190114194825.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190114194825.2">## 心得總結
+
+每周心得：製作成實體的過程並不容易，因為是選擇使用3D列印的方式製作，必須考量在列印時所產生的尺寸公差，如果不修改一些細微尺寸的話，在實體的裝配上就會非常的困難。經討論後和組員馬上在Onshape上修改一些孔洞的尺寸，讓列印出的成品有更好的配合。</t>
+<t tx="leo.20190114194900.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190114194900.2">## 小組專題-實體化製作組裝
+
+&lt;a href="https://imgur.com/H9hqgwE"&gt;&lt;img src="https://i.imgur.com/H9hqgwE.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20190114195128.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190114195128.2">## 心得總結
+
+每周心得：原本有先將本體的初步構造設計出來，不過在組員將齒輪設計出來時得到每個齒輪軸心的間隔距離，就必須再做修改，利用Onshape的團隊功能，可以很方便的在線上做修改，只要一有變動都會立即更新，可以省去因為多次修改而有不同版本的麻煩，這樣可以很方便快速地去做設計變更。</t>
+<t tx="leo.20190114195206.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190114195206.2">## 心得總結
+
+每周心得：腳部的設計出部的完成後，可以大概抓出每一組腳的間隔距離，所以就可以先初步的繪製行走機構的本體，在本體上有繪製出馬達的擺放位置，預留之後實體化時的安裝空間，不過組員們希望能夠加裝減速齒輪，藉此達到增加輸出的效果，我們也利用Onshape的好處，方便在線上修改，這樣之後將齒輪設計完成後也能快速的設計變更本體的部分。</t>
+<t tx="leo.20190114195255.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190114195255.2">## 心得總結
+
+每周心得：這周繪製了新的一組腳部的設計，我們將整體的連桿厚度增加了不少，以及在考慮了組裝的可行性後有做了些修正，這時也真的再次感覺到Onshaoe在線上進行編輯繪製的方便性，與組員共同設計時，可以隨時查看各零件的尺寸大小和裝配時有無問題。</t>
+<t tx="leo.20190114195318.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190114195318.2">## 心得總結
+
+每周心得：在將各零件完成後，就可以進行組裝了，雖然在組裝完成後確定連桿沒有太大的問題，但要以實體話來說，這個版本的機構太薄了，對於實際組裝也不是那麼的方便，所以和另一名組員討論後決定再重新設計一次。</t>
+<t tx="leo.20190114195350.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190114195350.2">## 心得總結
+
+每周心得：這周進行行走機構腳部的初步繪製，雖然solvespace可以很快速地進行繪製零件，但沒辦法與他人共同編輯檔案，如果有許多人一起繪製的話，會有各種版本沒辦法統一的情況發生，所以我們選擇在Onshape進行繪製，首先建立小組團隊，團隊裡的人可以進行協同設計、修改等，很方便地達到小組設計的需求。</t>
+<t tx="leo.20190114195414.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190114195414.2">## 心得總結
+
+每周心得：在與組員討論後，決定製作與行走機構相關的專題，為了能夠了解行走機構腳部的連桿位置以及行走時的軌跡，我們利用solvespace來進行繪製，solvespace雖然功能簡單，但是非常的方便，只要有個隨身碟就能夠隨身攜帶，而且還能夠看單一點在作動時所運行的軌跡，我們經由此功能知道在行走時會有一段水平移動，了解行走時的連桿位置。</t>
 </tnodes>
 </leo_file>
